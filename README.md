@@ -7,4 +7,4 @@ To support this project, you can make a donation to its current maintainer:
   
 [![bitcoin-qrcode-black](https://github.com/Ximi1970/Donate/blob/master/bitcoin-donate-qrcode-black.png)](https://raw.githubusercontent.com/Ximi1970/Donate/master/bitcoin-address.html)
 
-[AbCdEfGhIjKlMnOpQrStUvWxYz](https://github.com/Ximi1970/Donate/blob/master/bitcoin-address.html)  
+[![AbCdEfGhIjKlMnOpQrStUvWxYz](https://github.com/Ximi1970/Donate/blob/master/bitcoin-address.html)]()
